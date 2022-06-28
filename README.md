@@ -26,5 +26,6 @@ One of the points that i learnd from
 - You should add logging in a very early stage. This will help you to find the problem easily and save your time.
 - Don’t depend on external technologies. But when you have to do so, try to reduce your dependency on them as much as you can.
 
+#Practising Pull
 
 
